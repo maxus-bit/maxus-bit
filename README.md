@@ -2,14 +2,14 @@
 
 **Junior Full Stack Developer | Software Engineerin Student**
 
-Я разработчик, который любит объединять строгую архитектуру бэкенда с продуманным пользовательским интерфейсом. Совмещаю технический бэкграунд инженера-электрика в колледже с активной разработкой собственных IT-продуктов. Умею брать ответственность за процессы (опыт в студенческом парламенте) и довожу проекты от идеи до реализации.
+I love creating something useful and cool. And sometimes I feel like I'm a perfectionist and try to do everything perfectly. Maybe...
 
-### 🚀 What I'm currently working on
-- 💻 **Maxus** — A platform for generating YouTube content Thumbnails based on AI with Vertex AI
+### MY BEST PROJECTS
+- 💻 **Maxus** — A platform for generating YouTube content Thumbnails based on AI image.
 - 🔧 I work with AI and integrate new technologies to automate routine tasks.
 - 📚 I'm learning data structures and practicing with **Python and Java**
 
-### 🛠 Tech Stack & Tools
+### STACK & TOOLS
 
 **Backend & Logic** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### 📫 How to reach me
+### 📫 HOW TO REACH ME
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ВСТАВЬ_ССЫЛКУ_НА_LINKEDIN_СЮДА)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](ВСТАВЬ_ССЫЛКУ_НА_ТЕЛЕГРАМ_СЮДА)
