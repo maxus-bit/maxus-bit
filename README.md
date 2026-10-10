@@ -30,5 +30,5 @@ I love creating something useful and cool. And sometimes I feel like I'm a perfe
 ### **📫 HOW TO REACH ME**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-pavluchenko/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Skufj)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/upoat)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:develop.my1@gmail.com)
