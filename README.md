@@ -1,6 +1,6 @@
 # HI THERE I'M MAX! 👋
 
-**Junior Full Stack Developer | Software Engineering Student**
+**Software Developer**
 
 I love creating something useful and cool. And sometimes I feel like I'm a perfectionist and try to do everything perfectly. Maybe...
 
